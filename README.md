@@ -18,5 +18,11 @@ Model Info
 - NumPy 
 - PIL (Pillow)
 
+Results 
+
+
+![Screenshot 2025-05-05 225317](https://github.com/user-attachments/assets/2be0702f-3a3e-4298-97de-35cf68194357)
+
+
   License
 MIT License. Pretrained model copyright © 2016 Berkeley AI Research
